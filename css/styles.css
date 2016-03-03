@@ -1,0 +1,21 @@
+h3 {text-align: center}
+
+.row {
+	padding-right: 30px;
+	padding-left:30px;
+}
+.row > div {
+	border: 0px solid;
+	background-color: lightgray;
+}
+.large-box
+{
+	height: 1000px;
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
